@@ -9,7 +9,7 @@ function App() {
         <Route path='/movie/:id' element={<Detail />} />
         <Route path="/" element={<Home />} />
       </Routes>
-    </Router>//dfdf ㅇㅇㅇ 인바수보
+    </Router>//dfdf ㅇㅇㅇ 인바수보 보수바인
   )
 }
 
