@@ -9,7 +9,7 @@ function Button({ text}) {
 
 Button.propTypes = {
   text: PropTypes.string.isRequired,
-  style: PropTypes.object, 
+  style: PropTypes.object, //ㅇㄹㅇㄹ
 };
 
 export default Button;
